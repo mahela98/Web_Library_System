@@ -1,0 +1,45 @@
+.aboutus-area {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+
+
+.aboutus-content h1 {
+  font-size: 40px;
+  font-weight: 800;
+  line-height: 40px;
+  margin-bottom: 2px;
+}
+
+.aboutus-content h1  {
+    color: #01003a;
+  }
+.aboutus-content h1 span {
+  color: #e8f800;
+}
+
+.aboutus-content h4 {
+  font-size: 18px;
+  font-weight: 500;
+  color: #160038;
+  margin-bottom: 23px;
+}
+
+.aboutus-content p {
+  font-size: 16px;
+  line-height: 27px;
+}
+
+/*-- counter --*/
+
+
+
+.counter .single-counter h2 {
+  font-size: 30px;
+  color: #000000;
+  line-height: 24px;
+  font-family: "Open Sans", sans-serif;
+  margin-bottom: 8px;
+}
+

@@ -1,0 +1,114 @@
+body {
+  /* font-family: "Roboto", sans-serif; */
+  background-image: url('../images/study2.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;  
+
+}
+
+.login-box {
+  margin-top: 50px;
+  margin-bottom: 100px;
+  height: auto;
+
+  border-radius: 50px;
+  background-color: rgb(0, 0, 22);
+  text-align: center;
+  box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.16),
+    10px 10px 10px 5px rgba(195, 226, 255, 0.103);
+}
+
+.login-title {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 38px;
+  letter-spacing: 9px;
+
+  color: #2283fa;
+}
+
+.login-form {
+  margin-top: 25px;
+
+  text-align: left;
+}
+
+input[type="text"] {
+  background-color: #1a2226;
+  border: none;
+  border-bottom: 2px solid #0db8de;
+  border-top: 0px;
+  border-radius: 5px;
+
+  outline: 0;
+  margin-bottom: 20px;
+  padding-left: 12px;
+  color: #ecf0f5;
+}
+input[type="email"] {
+  background-color: #1a2226;
+  border: none;
+  border-bottom: 2px solid #0dbfde;
+  border-top: 0px;
+  border-radius: 5px;
+  outline: 0;
+  margin-bottom: 20px;
+  padding-left: 12px;
+  color: #ecf0f5;
+}
+
+input[type="password"] {
+  background-color: #1a2226;
+  border: none;
+  border-bottom: 2px solid #0db8de;
+  border-top: 0px;
+  border-radius: 5px;
+  outline: 0;
+  padding-left: 12px;
+  margin-bottom: 20px;
+  color: #ecf0f5;
+}
+
+.form-control:focus {
+  border-color: inherit;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border-bottom: 4px solid #2e009b;
+  outline: 0;
+  background-color: #1a2226;
+  color: #ecf0f5;
+}
+
+input:focus {
+  outline: none;
+  box-shadow: 0 0 0;
+}
+
+label {
+  margin-bottom: 1px;
+}
+
+.form-control-label {
+  font-size: 12px;
+  color: #6c6c6c;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.btn-primary:hover {
+  background-color: #3d0ee9;
+  right: 0px;
+  border-color: #3d0ee9;
+  letter-spacing: 2px;
+}
+
+.lg-padding {
+  padding: 50px;
+}
+
+.already {
+  color: #464646;
+  font-style: normal;
+  font-size: 13px;
+}
+

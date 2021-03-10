@@ -1,0 +1,124 @@
+body {
+    font-family: "Roboto", sans-serif;
+ 
+  
+  }
+  .mybackground{
+    background-color: #c5c5c58e;
+  }
+  .login-box {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    height: auto;
+  
+    border-radius: 50px;
+    background-color: rgb(0, 17, 94) !important;
+    text-align: center;
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.16),
+      10px 10px 10px 5px rgba(195, 226, 255, 0.103);
+  }
+  
+  .login-title {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 38px;
+    font-style:normal ;
+    font-weight: bold;
+    letter-spacing: 5px;
+
+    color: #0073ff;
+  }
+  
+  .login-form {
+    margin-top: 25px;
+  
+    text-align: left;
+  }
+  
+  input[type="text"] {
+    background-color: #ececec;
+    border: none;
+    border-bottom: 2px solid #0db8de;
+    border-top: 0px;
+    border-radius: 5px;
+  
+    outline: 0;
+    margin-bottom: 20px;
+    padding-left: 12px;
+    color: #020024;
+  }
+  input[type="email"] {
+    background-color: #ececec;
+    border: none;
+    border-bottom: 2px solid #0dbfde;
+    border-top: 0px;
+    border-radius: 5px;
+    outline: 0;
+    margin-bottom: 20px;
+    padding-left: 12px;
+    color: #020024;
+  }
+  
+  input[type="password"],input[type="tel"] {
+    background-color: #ececec;
+    border: none;
+    border-bottom: 2px solid #0db8de;
+    border-top: 0px;
+    border-radius: 5px;
+    outline: 0;
+    padding-left: 12px;
+    margin-bottom: 20px;
+    color: #020024;
+  }
+  
+  .form-control:focus {
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-bottom: 4px solid #2e009b;
+    outline: 0;
+    background-color: #fdfdfd;
+    color: #2e2e2e;
+  }
+  
+  input:focus {
+    outline: none;
+    box-shadow: 0 0 0;
+  }
+  
+  label {
+    margin-bottom: 1px;
+  }
+  
+  .form-control-label {
+    font-size: 12px;
+    color: #dddddd;
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+  
+  .btn-primary {
+    background-color: #000d83;
+    right: 0px;
+    border-color: #000d83;
+    
+  }
+  .btn-primary:hover {
+    background-color: #3d0ee9;
+    right: 0px;
+    border-color: #3d0ee9;
+    
+  }
+  
+  .lg-padding {
+    padding: 50px;
+  }
+  
+  .already {
+    color: #464646;
+    font-style: normal;
+    font-size: 13px;
+  }
+  
+  /* error massage display on the signin */
+  

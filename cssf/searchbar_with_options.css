@@ -1,0 +1,29 @@
+/*search box css start here*/
+.search-sec {
+  padding: 2rem;
+}
+
+.search-slt {
+  display: block;
+  width: 100%;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  height: calc(3rem + 2px) !important;
+  border-radius: 0;
+}
+
+.wrn-btn {
+  width: 100%;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: capitalize;
+  height: calc(3rem + 2px) !important;
+  border-radius: 0;
+
+  background-color: #3d0ee9b7;
+
+  border-color: #3d0ee9b4;
+}
