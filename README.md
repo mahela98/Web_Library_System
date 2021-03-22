@@ -1,8 +1,9 @@
 # Web_Library_System
-Using PHP, HTML, CSS, Bootstrap, JS, MYSQL
+ Developed using PHP, HTML, CSS, Bootstrap, JS, MYSQL.
 
 
 
-
-#### Add Email information to includes/mailPhpMailer.php
-#### Import DataBase/Login_system.sql to your database
+## How to Run
+* Add Email information to includes/mailPhpMailer.php.
+* Import DataBase/Login_system.sql to your database.
+* Import DataBase/login_system.sql to your database.
